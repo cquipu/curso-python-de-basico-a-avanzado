@@ -1,0 +1,62 @@
+============================================================
+PLAN DE FORMACIÓN: DATA SCIENCE & BACKEND DEVELOPER (PYTHON)
+============================================================
+Perfil: Computación Científica (Refuerzo post-egreso 7 años)
+Duración: 4 Meses (10-15 horas/semana)
+
+------------------------------------------------------------
+1. ÁREAS DE ENFOQUE Y CONTENIDO CLAVE
+------------------------------------------------------------
+
+A. INGENIERÍA DE SOFTWARE & PYTHON AVANZADO
+   - Contenido: Programación Orientada a Objetos (POO), decoradores, 
+     iteradores, tipado estático (Typing), Gestión de dependencias (Poetry/Pip).
+   - Libro: "Python a Fondo" (Oscar Ramírez) - Español.
+   - Curso: "Python 3: Curso Completo" (Udemy / MoureDev).
+
+B. BACKEND & APIS
+   - Contenido: FastAPI, Pydantic, SQLAlchemy (ORM), Migraciones con Alembic,
+     Arquitectura REST, Autenticación JWT, Dockerización.
+   - Libro: "FastAPI - Modern Python Web Development" (Bill Lubanovic).
+   - Curso: "FastAPI: De cero a experto" (Tiago Antunes / Udemy).
+
+C. DATA SCIENCE & ENGINEERING
+   - Contenido: Manipulación de datos con Pandas/Polars, NumPy, SQL 
+     Avanzado (PostgreSQL), ETL Pipelines, Visualización (Plotly/Seaborn).
+   - Libro: "Python para análisis de datos" (Wes McKinney) - Español.
+   - Libro (PT): "Data Science do Zero" (Joel Grus) - Alta Books.
+
+D. MACHINE LEARNING & MLOPS
+   - Contenido: Scikit-learn (Regresión, Clasificación), Modelos 
+     Ensemble, MLflow (Tracking), Introducción a LLMs (LangChain).
+   - Curso: Especialización en Ciencia de Datos (Coursera - Univ. Michigan).
+
+------------------------------------------------------------
+2. CRONOGRAMA DE ESTUDIOS (4 MESES)
+------------------------------------------------------------
+
+MES 1: EL CORE DEL DESARROLLADOR
+- Semanas 1-2: Python avanzado (Manejo de memoria, Concurrencia básica).
+- Semanas 3-4: Bases de Datos (Diseño Relacional + SQL intermedio).
+- Proyecto: Script de procesamiento de datos con clases y persistencia SQL.
+
+MES 2: BACKEND Y ARQUITECTURA
+- Semanas 5-6: FastAPI (Endpoints, Validación de datos, Schemas).
+- Semanas 7-8: Seguridad y Despliegue (JWT, Docker, GitFlow).
+- Proyecto: API funcional que gestione usuarios y registros de datos.
+
+MES 3: CIENCIA DE DATOS Y ANÁLISIS
+- Semanas 9-10: Análisis Exploratorio de Datos (EDA) y Limpieza profunda.
+- Semanas 11-12: Algoritmos de ML (Entrenamiento, Validación Cruzada).
+- Proyecto: Notebook con análisis predictivo basado en un caso real.
+
+MES 4: INTEGRACIÓN E IA MODERNA
+- Semanas 13-14: Model Serving (Exponer el modelo de ML mediante la API).
+- Semanas 15-16: Automatización de Pipelines e Intro a LangChain/OpenAI API.
+- PROYECTO FINAL: Sistema "End-to-End" (API + ML Model + Database).
+
+------------------------------------------------------------
+NOTAS ADICIONALES:
+- Priorizar la práctica sobre la teoría pura dado el background científico.
+- Uso mandatorio de Git/GitHub para todos los ejercicios del plan.
+============================================================
