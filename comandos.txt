@@ -1,0 +1,44 @@
+
+Crear nuevo archivo utils.py
+touch utils.py
+
+> crear entorno:
+python -m venv entorno1
+
+> borrar entorno:
+rm -rf entorno1
+
+> instalar django
+pip install django
+
+
+> Activar entorno creado
+. entorno1/Scripts/activate
+
+> Desactivar entorno actual
+deactivate
+
+
+Ctrl+k -> Ctrl+c      # Comentar linea o bloque
+Ctrl+k -> Ctrl+u      # Descomentar linea o bloque
+
+Ver todas las ramas
+git branch
+
+Crea rama develop
+git branch develop
+
+Crea rama y la cambia simultaneamente 
+git checkout -b develop
+
+Conectarse a rama
+git checkout develop
+
+Subir la rama al repositorio remoto:
+git push -u origin nueva-rama
+
+Cambiar entre ramas
+git checkout main
+
+Pasar unir cambios de develop en master
+git merge develop
